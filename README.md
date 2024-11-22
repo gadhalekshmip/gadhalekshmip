@@ -25,4 +25,4 @@ End-to-End ML Developer
 ---
 
 ## Blog  
-- [Robot Learning Evolution](https://gadhalekshmip.hashnode.dev/robot-learning-evolution) (Published on IEEE RAS)  
+- [Robot Learning Evolution](https://gadhalekshmip.hashnode.dev/robot-learning-evolution) (Second Runners-Up on IEEE RAS) 
