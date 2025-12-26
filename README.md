@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gadha Lekshmi P.  
-Computer Vision Engineer and Researcher
+Image Generation and Vision Engineer
 
 ### 📫 Reach Me At:  
 📧 [gadhalekshmip@gmail.com](mailto:gadhalekshmip@gmail.com)  
