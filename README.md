@@ -42,11 +42,11 @@ AWS (EC2, S3) • Docker • MLflow • BentoML • Streamlit • FastAPI • Te
 - **Multi-Layer Explainability Framework for Semi-Supervised Anomaly Detection in Digital Pathology**  
   Electronic Letters on Computer Vision and Image Analysis, 2025 (Under Review)
 
+**Conferences**
+
 - **Semi-supervised Teeth Segmentation and Rigid Registration of CBCT–IOS Pairs Using PointNetLK**  
   MICCAI 2025, Springer LNCS (Accepted) | **🏆 First Place - MICCAI STSR Challenge**  
   [Read here](https://openreview.net/pdf?id=dqflX3h1hv)
-
-**Conferences**
 - **From Chaos to Clarity: Satellite Imagery & Deep Learning for Emergency Response**  
   International Conference on Advances in Aerospace and Energy Systems (IAES 2024) @ ISRO  
   [Read here](https://www.researchgate.net/publication/385272655)
