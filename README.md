@@ -42,7 +42,6 @@ AWS (EC2, S3) • Docker • MLflow • BentoML • Streamlit • FastAPI • Te
 - **Multi-Layer Explainability Framework for Semi-Supervised Anomaly Detection in Digital Pathology**  
   Electronic Letters on Computer Vision and Image Analysis, 2025 (Under Review)
 
-**Journals (Accepted)**
 - **Semi-supervised Teeth Segmentation and Rigid Registration of CBCT–IOS Pairs Using PointNetLK**  
   MICCAI 2025, Springer LNCS (Accepted) | **🏆 First Place - MICCAI STSR Challenge**  
   [Read here](https://openreview.net/pdf?id=dqflX3h1hv)
